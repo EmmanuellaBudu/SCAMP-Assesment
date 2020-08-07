@@ -1,2 +1,2 @@
-# SCAMP-Assesment
-Assesment for SCAMP
+# SCAMP-Assessment
+Assessment for SCAMP
